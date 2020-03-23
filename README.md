@@ -1,6 +1,8 @@
 # Repo-Auto-Pull
 A Script made to pull files from a repo every [amount] of hours.
 
+For this you will need to run ```pip install GitPython ```
+
 I made this script for my FiveM Server so it would pull the updated files every 6 hours.
 The Timer can be removed and the script can be added to your start.bat which would look something like this: 
 ```
